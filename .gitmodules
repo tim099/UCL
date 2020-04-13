@@ -1,9 +1,13 @@
+
 [submodule "UCL_Core"]
 	path = UCL_Core
 	url = https://github.com/tim099/UCL_Core
-[submodule "UCL_Modules/UCL_Scene"]
-	path = UCL_Modules/UCL_Scene
-	url = https://github.com/tim099/UCL_Scene
+	branch = Dev
 [submodule "UCL_Modules/UCL_Game"]
 	path = UCL_Modules/UCL_Game
 	url = https://github.com/tim099/UCL_Game
+	branch = Dev
+[submodule "UCL_Modules/UCL_Scene"]
+	path = UCL_Modules/UCL_Scene
+	url = https://github.com/tim099/UCL_Scene
+	branch = Dev
