@@ -19,3 +19,7 @@
 	path = UCL_Modules/UCL_Audio
 	url = https://github.com/tim099/UCL_Audio
 	branch = Dev
+[submodule "UCL_Modules/UCL_Build"]
+	path = UCL_Modules/UCL_Build
+	url = https://github.com/tim099/UCL_Build
+	branch = Dev
