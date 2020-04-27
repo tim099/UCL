@@ -23,3 +23,7 @@
 	path = UCL_Modules/UCL_Build
 	url = https://github.com/tim099/UCL_Build
 	branch = Dev
+[submodule "UCL_Modules/UCL_Network"]
+	path = UCL_Modules/UCL_Network
+	url = https://github.com/tim099/UCL_Network
+	branch = Dev
