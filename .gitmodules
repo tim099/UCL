@@ -31,3 +31,7 @@
 	path = UCL_Modules/UCL_Mesh
 	url = https://github.com/tim099/UCL_Mesh
 	branch = Dev
+[submodule "UCL_Modules/UCL_Tween"]
+	path = UCL_Modules/UCL_Tween
+	url = https://github.com/tim099/UCL_Tween
+	branch = Dev
