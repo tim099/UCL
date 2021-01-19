@@ -35,3 +35,7 @@
 	path = UCL_Modules/UCL_Tween
 	url = https://github.com/tim099/UCL_Tween
 	branch = Dev
+[submodule "UCL_Modules/UCL_WindowsLib"]
+	path = UCL_Modules/UCL_WindowsLib
+	url = https://github.com/tim099/UCL_WindowsLib
+	branch = Dev
