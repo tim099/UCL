@@ -47,3 +47,6 @@
 	path = UCL_Modules/UCL_Tools
 	url = https://github.com/tim099/UCL_Tools
 	branch = Dev
+[submodule "UCL_Modules/UCL_Steam"]
+	path = UCL_Modules/UCL_Steam
+	url = https://github.com/tim099/UCL_Steam
